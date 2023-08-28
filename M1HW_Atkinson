@@ -2,3 +2,24 @@
 # M1HW
 # Sarah Atkinson
 # 08/28/2023
+
+def add (x,y):
+return x + y
+
+def subtract (x,y):
+return x - y
+
+def multiply (x,y):
+return x * y
+
+def divide (x,y):
+return x / y
+
+print("Welcome to the calculator program.")
+print("1. Add")
+print("2. Subtract")
+print("3. Divide")
+print("4. Multiply")
+print("5. Exit")
+
+while true:
