@@ -26,3 +26,4 @@ while true:
 choice = input("Enter a number: ")
 
 if choice == '1'
+print(num1, "+" num2, "=")
