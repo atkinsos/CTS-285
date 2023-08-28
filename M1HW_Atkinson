@@ -25,4 +25,4 @@ print("5. Exit")
 while true:
 choice = input("Enter a number: ")
 
-if choice == "1"
+if choice == '1'
