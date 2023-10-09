@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
 <body>
 
 <h1>Welcome to Dataman!</h1>
@@ -16,7 +23,7 @@
 <li>Force Out - A multi-player subtraction game. Starting at a number chosen by Dataman, each player must subtract a number from the next answer. Whoever ends at zero is the loser. Also suggests the game 'First Out' where the first person to get to zero is the winner.</li>
 <li>Missing Number Game - Fill in the missing number in the equation.</li>
 <li>Orbit Math - Using a game board in the manual two or more players set each other three maths problems. Correct answers allow you to progress along the board, the first to reach the sun at the end wins!</li>
-
+</ul>
 
 </body>
 </html>
